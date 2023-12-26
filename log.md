@@ -11,7 +11,7 @@
 
 ### Day 2: December 26, Tuesday
 
-**Today's Progress**: Created DB in Supabase, and sent pokemons through with Prisma.
+**Today's Progress**: Created [DB in Supabase](https://supabase.com/dashboard/project/nuwidquxephmkslwzdxh/database/tables), and sent pokemons through with Prisma.
 
 **TODO**: 
 - API in Next
@@ -19,4 +19,4 @@
 
 **Thoughts**: I'm still unclear on how the whole FE+BE Next stuff will unwrap. looking forward to tomorrow.
 
-**Link(s)**: [commit]
+**Link(s)**: [day 2 commit](https://github.com/eloyrobillard/nextjs-user-input/commit/f193f6ad2bdc245d8445aed5bee2529dfe10e987)
