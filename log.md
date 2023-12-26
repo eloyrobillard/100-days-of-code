@@ -8,3 +8,15 @@
 
 **Link(s) to work**
 [Debounced user input in NextJS](https://github.com/eloyrobillard/nextjs-user-input)
+
+### Day 2: December 26, Tuesday
+
+**Today's Progress**: Created DB in Supabase, and sent pokemons through with Prisma.
+
+**TODO**: 
+- API in Next
+- Auth
+
+**Thoughts**: I'm still unclear on how the whole FE+BE Next stuff will unwrap. looking forward to tomorrow.
+
+**Link(s)**: [commit]
