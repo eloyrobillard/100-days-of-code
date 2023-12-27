@@ -17,6 +17,6 @@
 - API in Next
 - Auth
 
-**Thoughts**: I'm still unclear on how the whole FE+BE Next stuff will unwrap. looking forward to tomorrow.
+**Thoughts**: I'm still unclear on how the whole FE+BE Next stuff will unwrap. Looking forward to tomorrow.
 
 **Link(s)**: [day 2 commit](https://github.com/eloyrobillard/nextjs-user-input/commit/f193f6ad2bdc245d8445aed5bee2529dfe10e987)
