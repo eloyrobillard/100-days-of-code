@@ -26,4 +26,10 @@
 **Today's Progress**
 Made changes based on Magnus' [feedback](https://codereview.stackexchange.com/questions/288595/parsing-fetched-data-in-typescript/288603#288603):
 - using typebox + typebox's TypeCompiler for JSON Schema and type validation
-- removed `Result<T>`
+- removed `Result<T>` and custom JSON parsing
+
+**TODO**: 
+- Link API with FE
+- Auth
+
+**Link**: [day 3 commit](https://github.com/eloyrobillard/nextjs-user-input/commit/ef38c8f345a9b3962d83a1d3942284ba30f4cd2c)
