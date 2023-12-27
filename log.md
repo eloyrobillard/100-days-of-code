@@ -20,3 +20,10 @@
 **Thoughts**: I'm still unclear on how the whole FE+BE Next stuff will unwrap. Looking forward to tomorrow.
 
 **Link(s)**: [day 2 commit](https://github.com/eloyrobillard/nextjs-user-input/commit/f193f6ad2bdc245d8445aed5bee2529dfe10e987)
+
+### Day 3: December 27, Wednesday
+
+**Today's Progress**
+Made changes based on Magnus' [feedback](https://codereview.stackexchange.com/questions/288595/parsing-fetched-data-in-typescript/288603#288603):
+- using typebox + typebox's TypeCompiler for JSON Schema and type validation
+- removed `Result<T>`
