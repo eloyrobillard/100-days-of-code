@@ -51,3 +51,10 @@ Refactored based on [Netflix Clone React](https://github.com/NKDesign30/Netflix-
 Added grid for pokemon cards. Fixed, expanded, and further customized the ESLint config.
 
 **Link**: [day 5 commit](https://github.com/eloyrobillard/nextjs-user-input/commit/e61d4d9c09eb55b4377dad2ed62184ca386791a7)
+
+### Day 6: December 30, Saturday
+
+**Today's Progress**
+Re-populated DB with more complete pokemon data, including the sprites now shown in the UI.
+
+**Link** [day 6](https://github.com/eloyrobillard/nextjs-user-input/commit/74008f6512cfe0965027e527caf7f3f454061797)
