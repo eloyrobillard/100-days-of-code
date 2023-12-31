@@ -58,3 +58,15 @@ Added grid for pokemon cards. Fixed, expanded, and further customized the ESLint
 Re-populated DB with more complete pokemon data, including the sprites now shown in the UI.
 
 **Link** [day 6](https://github.com/eloyrobillard/nextjs-user-input/commit/74008f6512cfe0965027e527caf7f3f454061797)
+
+### Day 7: December 31, Sunday
+
+**Today's Progress**
+
+<details>
+![image](https://github.com/eloyrobillard/100-days-of-code/assets/67062814/32ab08ad-8634-4b61-8430-bebdfaff42a8)
+</details>
+
+[Code Review](https://codereview.stackexchange.com/questions/288694/centering-ui-elements-with-flex-in-react)
+
+**Link** [day 7](https://github.com/eloyrobillard/nextjs-user-input/commit/4fac9831a7f84c49ba6d4bdd9b16d6a7f07c356f)
