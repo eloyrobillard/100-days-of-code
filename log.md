@@ -70,3 +70,11 @@ Re-populated DB with more complete pokemon data, including the sprites now shown
 [Code Review](https://codereview.stackexchange.com/questions/288694/centering-ui-elements-with-flex-in-react)
 
 **Link** [day 7](https://github.com/eloyrobillard/nextjs-user-input/commit/4fac9831a7f84c49ba6d4bdd9b16d6a7f07c356f)
+
+### Day 8: January 1, Monday
+
+**Today's Progress**
+
+Added route/Link to page with pokemon details. Styling remains minimal at this point, and some data (abilities, forms) is missing.
+
+**Link** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/de7794b7d660f223e9fd843cd0a58901794bc75c)
