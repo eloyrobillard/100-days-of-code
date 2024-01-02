@@ -78,3 +78,11 @@ Re-populated DB with more complete pokemon data, including the sprites now shown
 Added route/Link to page with pokemon details. Styling remains minimal at this point, and some data (abilities, forms) is missing.
 
 **Link** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/de7794b7d660f223e9fd843cd0a58901794bc75c)
+
+### Day 9: January 2, Tuesday
+
+**Today's Progress**
+
+Added styling to pokémon details page. Discovered it won't be easy to create the perspective effect from the example.
+
+**Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/c724905ff4b15f4de8ae54c7479e27f8c03f6ae0), [code review](https://codereview.stackexchange.com/questions/288731/icon-styling-in-tailwind-react)
