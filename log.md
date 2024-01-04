@@ -102,4 +102,4 @@ Started creating JSON parser and TS types for next Pokémon model upgrade.
 
 abilitiesフィールドとForms、Genus、Name、Statモデルを追加した。加えて、DBの更新の下準備を行なった。
 
-**Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/b7ce156e2d20bce5bac974c1c643f23763cd83a6), [code review]()
+**Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/b7ce156e2d20bce5bac974c1c643f23763cd83a6), [code review](https://codereview.stackexchange.com/questions/288760/fully-updating-db-table-with-prisma-typescript)
