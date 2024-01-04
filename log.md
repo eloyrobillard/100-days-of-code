@@ -83,7 +83,7 @@ Added route/Link to page with pokemon details. Styling remains minimal at this p
 
 **Today's Progress**
 
-Added styling to pokémon details page. Discovered it won't be easy to create the perspective effect from [pokedex-angular-app].
+Added styling to pokémon details page. Discovered it won't be easy to create the perspective effect from [pokedex-angular-app](https://github.com/HybridShivam/pokedex-angular-app/tree/master).
 
 **Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/c724905ff4b15f4de8ae54c7479e27f8c03f6ae0), [code review](https://codereview.stackexchange.com/questions/288731/icon-styling-in-tailwind-react)
 
@@ -91,9 +91,15 @@ Added styling to pokémon details page. Discovered it won't be easy to create th
 
 **Today's Progress**
 
-Discovered it's actually easy to create the [perspective effect](https://github.com/HybridShivam/pokedex-angular-app/blob/master/src/app/pokemon-detail/pokemon-detail.component.scss#L224) from [pokedex-angular-app].
+Discovered it's actually easy to create the [perspective effect](https://github.com/HybridShivam/pokedex-angular-app/blob/master/src/app/pokemon-detail/pokemon-detail.component.scss#L224) from [pokedex-angular-app](https://github.com/HybridShivam/pokedex-angular-app/tree/master).
 Started creating JSON parser and TS types for next Pokémon model upgrade.
 
 **Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/6e093e445d81d58e8ab0af641a9100f1f725b735), [code review](https://codereview.stackexchange.com/questions/288743/debouncing-search-query-in-react-next-14)
 
-[pokedex-angular-app]: https://github.com/HybridShivam/pokedex-angular-app/tree/master
+### Day 11: 
+
+**今日の進捗**
+
+abilitiesフィールドとForms、Genus、Name、Statモデルを追加した。加えて、DBの更新の下準備を行なった。
+
+**Links** [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/b7ce156e2d20bce5bac974c1c643f23763cd83a6), [code review]()
