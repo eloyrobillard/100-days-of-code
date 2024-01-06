@@ -112,4 +112,12 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 **Links**
 
-[commit]([**今日の進捗**](https://github.com/eloyrobillard/nextjs-user-input/commit/e3d5152e04994bbabae7d37970824b99f186529e)https://github.com/eloyrobillard/nextjs-user-input/commit/e3d5152e04994bbabae7d37970824b99f186529e), [typebox issue](https://github.com/sinclairzx81/typebox/issues/719)
+[commit]([**今日の進捗**](https://github.com/eloyrobillard/nextjs-user-input/commit/e3d5152e04994bbabae7d37970824b99f186529e), [typebox issue](https://github.com/sinclairzx81/typebox/issues/719)
+
+### Day 13, 1月6日:
+
+今日の進歩：`populateWithFullPokemonDetails`を修正し、やっとDBのデータを拡張することができた。その一部をUIに追加した。
+
+内省：DBのリレーションがよくわからない。あとは、なぜかポケモンの一部がDB更新時に無視される。
+
+[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/d45a0fefb6a7be46d5d3e1613345d0ca8c51eb14), 
