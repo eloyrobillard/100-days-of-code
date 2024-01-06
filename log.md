@@ -120,4 +120,4 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 内省：DBのリレーションがよくわからない。あとは、なぜかポケモンの一部がDB更新時に無視される。
 
-[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/d45a0fefb6a7be46d5d3e1613345d0ca8c51eb14), 
+[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/d45a0fefb6a7be46d5d3e1613345d0ca8c51eb14), [code review](https://codereview.stackexchange.com/questions/288760/fully-updating-db-table-with-prisma-typescript)
