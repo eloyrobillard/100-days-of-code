@@ -121,3 +121,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 内省：DBのリレーションがよくわからない。あとは、なぜかポケモンの一部がDB更新時に無視される。
 
 [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/d45a0fefb6a7be46d5d3e1613345d0ca8c51eb14), [code review](https://codereview.stackexchange.com/questions/288760/fully-updating-db-table-with-prisma-typescript)
+
+### Day 14, 1月7日
+
+今日の進捗：CSSで詳細ページに彩りを添えた。
+
+内省：テキスト要素の間に空間を入れるには`margin-right`よりいい方法はなんだろう。
+
+[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/9e4d3d88bde53a828bd0ce9011105e1a7b92cb7f), [code review](https://codereview.stackexchange.com/questions/288803/css-tailwind-to-display-pok%c3%a9mon-details)
