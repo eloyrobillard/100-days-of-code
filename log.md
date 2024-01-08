@@ -129,3 +129,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 内省：テキスト要素の間に空間を入れるには`margin-right`よりいい方法はなんだろう。
 
 [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/9e4d3d88bde53a828bd0ce9011105e1a7b92cb7f), [code review](https://codereview.stackexchange.com/questions/288803/css-tailwind-to-display-pok%c3%a9mon-details)
+
+### Day 15, 1月8日
+
+進捗：ゲージアニメーションを設置した。
+
+内省：諦めて模範を参考したから、ドリル練習にしたい。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/8acc3728c911d3e7b272117dc2dcbf7cbfc2bab2), [code review](https://codereview.stackexchange.com/questions/288813/gauge-animation-in-css)
