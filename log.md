@@ -137,3 +137,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 内省：諦めて模範を参考したから、ドリル練習にしたい。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/8acc3728c911d3e7b272117dc2dcbf7cbfc2bab2), [code review](https://codereview.stackexchange.com/questions/288813/gauge-animation-in-css)
+
+### 第16日,　1月9日
+
+進捗：攻撃・効果などのモデルを追加し、型コンパイラの追加を開始。
+
+内省：PokeAPIからデータを正しく取得することが一番時間かかりそう。
+
+リンク： [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/03b9d20f4608ffed5bacc2c9a7d99e81b4fd1079)
