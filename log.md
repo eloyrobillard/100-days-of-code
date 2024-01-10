@@ -138,7 +138,7 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/8acc3728c911d3e7b272117dc2dcbf7cbfc2bab2), [code review](https://codereview.stackexchange.com/questions/288813/gauge-animation-in-css)
 
-### 第16日,　1月9日
+### 第16日、1月9日
 
 進捗：攻撃・効果などのモデルを追加し、型コンパイラの追加を開始。
 
