@@ -145,3 +145,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 内省：PokeAPIからデータを正しく取得することが一番時間かかりそう。
 
 リンク： [commit](https://github.com/eloyrobillard/nextjs-user-input/commit/03b9d20f4608ffed5bacc2c9a7d99e81b4fd1079)
+
+### 第17日、1月10日
+
+進捗：攻撃モデルとその関連モデルを追加。ポケモンモデルとポケモン分類モデルを修正・更新。
+
+内省：populate更新はやばそう。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/1f77d1b26f9716cce3e7dbe2c7046293bd0265a5), [code review](https://codereview.stackexchange.com/questions/288864/prisma-models-in-one-to-many-relations)
