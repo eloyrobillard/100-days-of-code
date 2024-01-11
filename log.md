@@ -153,3 +153,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 内省：populate更新はやばそう。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/1f77d1b26f9716cce3e7dbe2c7046293bd0265a5), [code review](https://codereview.stackexchange.com/questions/288864/prisma-models-in-one-to-many-relations)
+
+### 第18日、1月11日
+
+進捗：攻撃データの移動のための関数を準備。テスト未完。
+
+感想：全てのデータ要求を同時に行わなくてよさそうだから、少し安心した。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/acb220573e383844bff03bed5718a5b7c60b5109), [review](https://codereview.stackexchange.com/questions/288864/prisma-models-with-various-relations)
