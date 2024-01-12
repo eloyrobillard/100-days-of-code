@@ -161,3 +161,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 感想：全てのデータ要求を同時に行わなくてよさそうだから、少し安心した。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/acb220573e383844bff03bed5718a5b7c60b5109), [review](https://codereview.stackexchange.com/questions/288864/prisma-models-with-various-relations)
+
+### 第19日、1月12日（金）
+
+進捗：新しいタイプモデル。ポケモンデータを再ダウンロード。debounced検索入力をサーバコンポーネントに変換。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/acb220573e383844bff03bed5718a5b7c60b5109), [レビュー](https://codereview.stackexchange.com/questions/288895/next-js-14-debouncing-user-search-query-with-server-side-components)
