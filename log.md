@@ -167,3 +167,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：新しいタイプモデル。ポケモンデータを再ダウンロード。debounced検索入力をサーバコンポーネントに変換。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/acb220573e383844bff03bed5718a5b7c60b5109), [レビュー](https://codereview.stackexchange.com/questions/288895/next-js-14-debouncing-user-search-query-with-server-side-components)
+
+### 第20日、1月13日（土）
+
+進捗：モデル修正とpopulateからspeciesデータを送信（だが、まだバグあり）。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/733d90904c1c276d4e2912f67b916f5302022006), [レビュー](https://codereview.stackexchange.com/questions/288904/handling-request-failure-in-next-js-server-side-component)
