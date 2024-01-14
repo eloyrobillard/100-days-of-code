@@ -173,3 +173,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：モデル修正とpopulateからspeciesデータを送信（だが、まだバグあり）。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/733d90904c1c276d4e2912f67b916f5302022006), [レビュー](https://codereview.stackexchange.com/questions/288904/handling-request-failure-in-next-js-server-side-component)
+
+### 第21日、1月14日（日）
+
+進捗：DBにポケモンと種類データを拡張した。だが分類データが見つからない。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/5a24ed5e7314535561eb75e6154887e8e08cc5e8)
