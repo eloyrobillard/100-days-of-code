@@ -179,3 +179,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：DBにポケモンと種類データを拡張した。だが分類データが見つからない。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/5a24ed5e7314535561eb75e6154887e8e08cc5e8)
+
+### 第22日、1月15日（月）
+
+進捗：ID重複などのリスクの回避方法を見つけたと思ったら、どうやら、接続タイムアウトの問題が出た。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/37bc27adf72c8251b11698a0316fd910647914c8), [質問]（https://stackoverflow.com/questions/77821467/prisma-db-connection-times-out-when-inserting-data-through-sub-queries）
