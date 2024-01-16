@@ -185,3 +185,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：ID重複などのリスクの回避方法を見つけたと思ったら、どうやら、接続タイムアウトの問題が出た。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-user-input/commit/37bc27adf72c8251b11698a0316fd910647914c8), [質問]（https://stackoverflow.com/questions/77821467/prisma-db-connection-times-out-when-inserting-data-through-sub-queries）
+
+### 第23日、1月16日（火）
+
+進捗：接続タイムアウト問題を無視し、分類ボタンにポケモン図鑑別の情報を隠した。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/eedfffc568193317dbb7f0bc62d4fbddb62ed56d), [レビュー](https://codereview.stackexchange.com/questions/288946/display-modal-on-click-in-center-of-screen-with-react)
