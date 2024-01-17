@@ -191,3 +191,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：接続タイムアウト問題を無視し、分類ボタンにポケモン図鑑別の情報を隠した。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/eedfffc568193317dbb7f0bc62d4fbddb62ed56d), [レビュー](https://codereview.stackexchange.com/questions/288946/display-modal-on-click-in-center-of-screen-with-react)
+
+### 第24日、1月17日（水）
+
+進捗：別のところにクリックすれば、ポケモン分類のポップアップが閉じるようにした。後少しレイアウトをいじった。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/f51c27ac9ddc2c86f3cda87f65a58778785e1b1e)、[質問](https://stackoverflow.com/questions/77830607/how-to-properly-handle-db-query-errors-in-next-14-server-side-components)
