@@ -197,3 +197,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：別のところにクリックすれば、ポケモン分類のポップアップが閉じるようにした。後少しレイアウトをいじった。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/f51c27ac9ddc2c86f3cda87f65a58778785e1b1e)、[質問](https://stackoverflow.com/questions/77830607/how-to-properly-handle-db-query-errors-in-next-14-server-side-components)
+
+### 第25日、1月18日（金）
+
+進捗：サーバコンポーネントからDBクエリのロジックを取り出した。あとは行の長さとオブジェクトの波括弧ルールが衝突しないようにESLintコンフィグを変更した。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/d98fc8c0a4cf16598102e06a522e543a21b83ca4)
