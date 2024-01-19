@@ -203,3 +203,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：サーバコンポーネントからDBクエリのロジックを取り出した。あとは行の長さとオブジェクトの波括弧ルールが衝突しないようにESLintコンフィグを変更した。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/d98fc8c0a4cf16598102e06a522e543a21b83ca4)
+
+### 第26日、1月19日（土）
+
+進捗：種族値ゲージがタイプ色を使うことにした。だが色がデフォルトでめちゃくちゃ醜い。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/ed2fd43b97efdc19cbf9a09296ae217aed71e4ca)
