@@ -198,14 +198,20 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/f51c27ac9ddc2c86f3cda87f65a58778785e1b1e)、[質問](https://stackoverflow.com/questions/77830607/how-to-properly-handle-db-query-errors-in-next-14-server-side-components)
 
-### 第25日、1月18日（金）
+### 第25日、1月18日（木）
 
 進捗：サーバコンポーネントからDBクエリのロジックを取り出した。あとは行の長さとオブジェクトの波括弧ルールが衝突しないようにESLintコンフィグを変更した。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/d98fc8c0a4cf16598102e06a522e543a21b83ca4)
 
-### 第26日、1月19日（土）
+### 第26日、1月19日（金）
 
 進捗：種族値ゲージがタイプ色を使うことにした。だが色がデフォルトでめちゃくちゃ醜い。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/ed2fd43b97efdc19cbf9a09296ae217aed71e4ca)
+
+### 第27日、1月20日（土）
+
+進捗：Prismaに再帰的にデータを記入する試み続行。まだダメっぽい。
+
+リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/c2c9be4a1fce017a82fd8140cd9e3816167b4e62), [質問](https://stackoverflow.com/questions/77850720/recursively-defining-a-recursive-model-in-prisma-postgres)
