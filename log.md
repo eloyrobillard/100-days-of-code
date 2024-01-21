@@ -215,3 +215,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Prismaに再帰的にデータを記入する試み続行。まだダメっぽい。
 
 リンク：[commit](https://github.com/eloyrobillard/nextjs-pokedex/commit/c2c9be4a1fce017a82fd8140cd9e3816167b4e62), [質問](https://stackoverflow.com/questions/77850720/recursively-defining-a-recursive-model-in-prisma-postgres)
+
+### 第28日、1月21日（日）
+
+進捗：ツリーを配列に変換してやっとDBに進化情報を挿入できた。
+
+リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/1f7a9cd653261e140ecfbbbe764faf74abe082a9), [質問](https://stackoverflow.com/questions/77850720/recursively-defining-a-recursive-model-in-prisma-postgres)
