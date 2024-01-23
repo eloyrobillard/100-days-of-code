@@ -228,3 +228,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：進化の流れのUIを一部実装。進化がないとバグるし、同じ段階に複数の進化が可能なら変になる。
 
 リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/9309823cd2d0f8cbf73bc586366b48ad5de2c941)、[質問](https://stackoverflow.com/questions/77858339/ts-how-to-filter-null-from-the-type-of-a-single-object-field-for-an-array-of)
+
+### 第30日、1月23日（火）
+
+進捗：タイプデータをDBに挿入。デオキシスの進化の流れを有効化。
+
+リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/8c05e86fa7401bd6a8e4d29890ab0e5ebc2fc1e3)、[質問](https://stackoverflow.com/questions/77858339/how-to-filter-null-from-the-type-of-a-single-object-field-for-an-array-of-such?noredirect=1#comment137276575_77858339)
