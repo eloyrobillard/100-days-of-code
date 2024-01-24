@@ -234,3 +234,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：タイプデータをDBに挿入。デオキシスの進化の流れを有効化。
 
 リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/8c05e86fa7401bd6a8e4d29890ab0e5ebc2fc1e3)、[質問](https://stackoverflow.com/questions/77858339/how-to-filter-null-from-the-type-of-a-single-object-field-for-an-array-of-such?noredirect=1#comment137276575_77858339)
+
+### 第31日、1月24日（水）
+
+進捗：なし（AnkiのSet Font Sizeのバグ修正で忙しかった。ごめん）
+
+リンク：[PR](https://github.com/cjhoward/anki-set-font-size/pull/8)
