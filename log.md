@@ -240,3 +240,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：なし（AnkiのSet Font Sizeのバグ修正で忙しかった。ごめん）
 
 リンク：[PR](https://github.com/cjhoward/anki-set-font-size/pull/8)
+
+### 第32日、1月25日（木）
+
+進捗：リレーションを活用し、ポケモン及び種類及び進化の流れデータの取得過程を大幅に改善した。
+
+リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/ec0d0479721ef19ab3100a1e994f3907924e3160)
