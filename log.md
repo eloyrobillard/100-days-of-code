@@ -252,3 +252,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：JSONから全てのポケモンをDBに無事移動。ヌル可能なフィールドを書き換えた。
 
 リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/2e820c00ad1a04dccb24139fcda6ccb81a7380a6)
+
+### 第34日、1月27日（土）
+
+進捗：JSONから種類・進化データをDBに挿入。全JSON（〜200MiB）をgit LFSでアップした。
+
+リンク：コミット[#1](https://github.com/eloyrobillard/nextjs-pokedex/commit/4a59ac92cb9934012c7633799af604d0e6345ff2)、[#2](https://github.com/eloyrobillard/nextjs-pokedex/commit/bea3606b5c4e0a20f98ad0216c3624991bc1c21b)
