@@ -258,3 +258,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：JSONから種類・進化データをDBに挿入。全JSON（〜200MiB）をgit LFSでアップした。
 
 リンク：コミット[#1](https://github.com/eloyrobillard/nextjs-pokedex/commit/4a59ac92cb9934012c7633799af604d0e6345ff2)、[#2](https://github.com/eloyrobillard/nextjs-pokedex/commit/bea3606b5c4e0a20f98ad0216c3624991bc1c21b)
+
+### 第35日、1月28日（日）
+
+進捗：Chainモデルから詳細を取り出し、進化の引き金の表示をより簡単にした。
+
+リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/f113171803faa31430ab9100ace8f341447ede08)
