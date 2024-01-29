@@ -264,3 +264,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Chainモデルから詳細を取り出し、進化の引き金の表示をより簡単にした。
 
 リンク：[コミット](https://github.com/eloyrobillard/nextjs-pokedex/commit/f113171803faa31430ab9100ace8f341447ede08)
+
+### 第36日、1月29日（月）
+
+進捗：Appsmith->releaseを本ブランチにマージ。Carbon UI Issueを検討中。
+
+リンク：[Issue](https://github.com/appsmithorg/appsmith/pull/30436)
