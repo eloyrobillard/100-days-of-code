@@ -269,4 +269,4 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 進捗：Appsmith->releaseを本ブランチにマージ。Carbon UI Issueを検討中。
 
-リンク：[Issue](https://github.com/appsmithorg/appsmith/pull/30436)
+リンク：[PR](https://github.com/appsmithorg/appsmith/pull/30436)
