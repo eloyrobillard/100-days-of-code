@@ -270,3 +270,7 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Appsmith->releaseを本ブランチにマージ。Carbon UI Issueを検討中。
 
 リンク：[PR](https://github.com/appsmithorg/appsmith/pull/30436)
+
+### 第37日、1月30日（火）
+
+進捗：AnkiのSyntax HighlightingでどうやってCSSクラスの使用を指定できるのかいろいろ調べた（未解決だが）。
