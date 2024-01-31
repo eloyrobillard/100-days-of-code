@@ -274,3 +274,11 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 ### 第37日、1月30日（火）
 
 進捗：AnkiのSyntax HighlightingでどうやってCSSクラスの使用を指定できるのかいろいろ調べた（未解決だが）。
+
+### 第38日、1月31日（水）
+
+進捗：Carbon DSをフォーク＋セットアップ。いいIssueを検索中。
+
+リンク：[フォーク](https://github.com/eloyrobillard/carbon)
+
+### 第37日
