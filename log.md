@@ -281,4 +281,8 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 
 リンク：[フォーク](https://github.com/eloyrobillard/carbon)
 
-### 第37日
+### 第39日、2月1日
+
+進捗：Yomitanに機能依頼を投稿。
+
+リンク：[依頼](https://github.com/themoeway/yomitan/issues/610)
