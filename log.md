@@ -286,3 +286,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Yomitanに機能依頼を投稿。
 
 リンク：[依頼](https://github.com/themoeway/yomitan/issues/610)
+
+### 第40日、2月2日
+
+進捗：Issueに挙げた提案は可能だと確認した。toasted-nutbreadと話もした！The Legend本人
+
+リンク：[依頼](https://github.com/themoeway/yomitan/issues/610)
