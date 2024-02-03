@@ -292,3 +292,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Issueに挙げた提案は可能だと確認した。toasted-nutbreadと話もした！The Legend本人
 
 リンク：[依頼](https://github.com/themoeway/yomitan/issues/610)
+
+### 第41日、2月3日
+
+進捗：Yomitanに複数ノートビューを追加中。
+
+リンク：（バグ修正中だからまだコミットしてない）
