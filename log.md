@@ -298,3 +298,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Yomitanに複数ノートビューを追加中。
 
 リンク：（バグ修正中だからまだコミットしてない）
+
+### 第42日、2月4日
+
+進捗：Ankiブラウザーで全カードを表示するためのPRを投稿。
+
+リンク：[PR](https://github.com/themoeway/yomitan/pull/636)
