@@ -304,3 +304,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Ankiブラウザーで全カードを表示するためのPRを投稿。
 
 リンク：[PR](https://github.com/themoeway/yomitan/pull/636)
+
+### 第43日、2月5日
+
+進捗：Yomitan PRで`noteView`を安全削除できるかどうか確認した：まだ二箇所から呼び出されているので念のためnutbreadに質問した。
+
+リンク：[コミット](https://github.com/themoeway/yomitan/pull/636/commits)、[質問](https://github.com/themoeway/yomitan/pull/636#discussion_r1477769798)
