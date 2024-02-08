@@ -322,3 +322,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 進捗：Yomitan PRレビューを要求。記事をさらに補た。
 
 リンクは上記同様
+
+### 第46日、2月8日
+
+✅ push requested improvements to Yomitan PR
+
+Removing duplicate code: [コミット](https://github.com/themoeway/yomitan/pull/636/commits/e95066f1bd101248fc02d5ee9184ad89cf1c6d2a)
