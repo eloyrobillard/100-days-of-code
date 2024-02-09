@@ -328,3 +328,9 @@ abilitiesフィールドとForms、Genus、Name、Statモデルを追加した�
 ✅ push requested improvements to Yomitan PR
 
 Removing duplicate code: [コミット](https://github.com/themoeway/yomitan/pull/636/commits/e95066f1bd101248fc02d5ee9184ad89cf1c6d2a)
+
+### 第47日、2月9日
+
+✅ Yomitan PR: can now use a hotkey to display all Anki cards for a term 
+
+リンク：[コミット](https://github.com/themoeway/yomitan/pull/636/commits)
