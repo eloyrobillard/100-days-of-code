@@ -334,3 +334,11 @@ Removing duplicate code: [コミット](https://github.com/themoeway/yomitan/pul
 ✅ Yomitan PR: can now use a hotkey to display all Anki cards for a term 
 
 リンク：[コミット](https://github.com/themoeway/yomitan/pull/636/commits)
+
+### 第48日、2月10日
+
+✅ Yomitan: Fixed an issue in my PR
+
+I was over-writing an old update, instead of creating a new one for my changes
+
+リンク：[コミット](https://github.com/themoeway/yomitan/pull/636)
