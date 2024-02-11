@@ -342,3 +342,8 @@ Removing duplicate code: [コミット](https://github.com/themoeway/yomitan/pul
 I was over-writing an old update, instead of creating a new one for my changes
 
 リンク：[コミット](https://github.com/themoeway/yomitan/pull/636)
+
+### 第49日、2月11日
+
+✅ Yomitan: further fixes and simplification
+✅ Yomitan #2: (POC) added setting allowing user to force add Anki card even when a duplicate exists
