@@ -347,3 +347,18 @@ I was over-writing an old update, instead of creating a new one for my changes
 
 ✅ Yomitan: further fixes and simplification
 ✅ Yomitan #2: (POC) added setting allowing user to force add Anki card even when a duplicate exists
+
+### 第50日、2月12日
+
+✅ Yomitan: get 1st PR approved
+✅ Yomitan #2: find piece of code deciding which button gets shown
+
+```js:display-generator.js
+updateHotkeys() {
+    const hotkeyHelpController = this._hotkeyHelpController;
+    if (hotkeyHelpController === null) { return; }
+    for (const template of this._templates.getAllTemplates()) {
+        hotkeyHelpController.setupNode(template.content);
+    }
+}
+```
