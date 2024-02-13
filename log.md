@@ -362,3 +362,9 @@ updateHotkeys() {
     }
 }
 ```
+
+### 第51日、2月13日
+
+✅ Yomitan #2: more changes to allow adding + viewing Anki card from Yomitan
+
+リンク：[コミット](https://github.com/eloyrobillard/yomitan/commit/3283ea8ad6e365ac3570c5407f5679801eaea296)
