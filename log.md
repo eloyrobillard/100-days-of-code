@@ -368,3 +368,9 @@ updateHotkeys() {
 ✅ Yomitan #2: more changes to allow adding + viewing Anki card from Yomitan
 
 リンク：[コミット](https://github.com/eloyrobillard/yomitan/commit/3283ea8ad6e365ac3570c5407f5679801eaea296)
+
+### 第52日、2月14日
+
+✅ Yomitan #2: figured out why the "view card" and "add card" won't show at the same time
+
+there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need a workaround
