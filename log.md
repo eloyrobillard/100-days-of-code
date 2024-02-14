@@ -374,3 +374,5 @@ updateHotkeys() {
 ✅ Yomitan #2: figured out why the "view card" and "add card" won't show at the same time
 
 there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need a workaround
+
+リンク：[コミット](https://github.com/eloyrobillard/yomitan/commit/e26b4226e87fe919007830b4eaacd0be6fd6434c)
