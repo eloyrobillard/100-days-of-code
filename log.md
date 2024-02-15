@@ -376,3 +376,9 @@ updateHotkeys() {
 there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need a workaround
 
 リンク：[コミット](https://github.com/eloyrobillard/yomitan/commit/e26b4226e87fe919007830b4eaacd0be6fd6434c)
+
+### 第53日、2月15日
+
+進捗：`viewNotes`ボタンのPRをマージ
+
+リンク：[PR](https://github.com/themoeway/yomitan/pull/636)
