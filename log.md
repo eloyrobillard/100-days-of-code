@@ -382,3 +382,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 進捗：`viewNotes`ボタンのPRをマージ
 
 リンク：[PR](https://github.com/themoeway/yomitan/pull/636)
+
+### 第54日：2月16日
+
+進捗：`Enable add buttons`に成功（だがオフにすると全ボタンが消える）
+
+リンク：[PR](https://github.com/themoeway/yomitan/pull/693)
