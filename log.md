@@ -395,8 +395,12 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 
 リンク：[コミット](https://github.com/themoeway/yomitan/pull/693/commits/e5680ff19517a8aebc8f5ee1ca66cd8087f88927)
 
-### 第56日：2月18日
+### 第56日、2月18日
 
 進捗：機能提案の良さを主張
 
 リンク：[メッセージ](https://github.com/themoeway/yomitan/pull/693#issuecomment-1950982362)
+
+### 第57日、2月19日
+
+進捗：コードを推敲、無駄なAPIコールを一個削除
