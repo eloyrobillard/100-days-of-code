@@ -404,3 +404,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第57日、2月19日
 
 進捗：コードを推敲、無駄なAPIコールを一個削除
+
+### 第58日、2月20日
+
+進捗：Foosoft DiscordでAnkiConnectを更新できるかどうか質問した。
