@@ -408,3 +408,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第58日、2月20日
 
 進捗：Foosoft DiscordでAnkiConnectを更新できるかどうか質問した。
+
+### 第59日、2月21日
+
+進捗：DiscordでFooSoftの返事に応じ、AnkiConnectに仮の`canAddNotesWithErrorDetail`を追加。
