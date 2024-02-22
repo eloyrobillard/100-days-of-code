@@ -412,3 +412,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第59日、2月21日
 
 進捗：DiscordでFooSoftの返事に応じ、AnkiConnectに仮の`canAddNotesWithErrorDetail`を追加。
+
+### 第60日、2月22日
+
+進捗：TypeScriptのIssueを確認、tscのデバッグ方法を復習
