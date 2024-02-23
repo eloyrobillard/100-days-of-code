@@ -416,3 +416,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第60日、2月22日
 
 進捗：TypeScriptのIssueを確認、tscのデバッグ方法を復習
+
+### 第61日、2月23日
+
+進捗：send AnkiConnect patch, first attempt
