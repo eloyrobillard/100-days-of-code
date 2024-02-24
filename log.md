@@ -420,3 +420,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第61日、2月23日
 
 進捗：send AnkiConnect patch, first attempt
+
+### 第62日、2月24日
+
+進捗：TSにおける関数インポートに移動のバグはどのファイルに起こっているか特定。
+
+リンク：[Issue](https://github.com/microsoft/TypeScript/issues/57451)
