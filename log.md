@@ -432,3 +432,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 進捗：AnkiConnect→コードに説明文を添えた。TypeScriptのMove To Fileのバグ修正PRを投稿。
 
 リンク：[PR](https://github.com/microsoft/TypeScript/pull/57530)
+
+### 第64日、2月26日
+
+報告：Yomitan [PR](https://github.com/themoeway/yomitan/pull/693)のUIを議論。TS PRをIssueページに報告。
