@@ -436,3 +436,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第64日、2月26日
 
 報告：Yomitan [PR](https://github.com/themoeway/yomitan/pull/693)のUIを議論。TS PRをIssueページに報告。
+
+### 第65日、2月27日
+
+報告：Yomitanでadd buttonsを常にオンにする。バグあり（多分canAddNotesWithErrorDetailのせい）
