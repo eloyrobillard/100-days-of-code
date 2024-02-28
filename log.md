@@ -440,3 +440,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第65日、2月27日
 
 報告：Yomitanでadd buttonsを常にオンにする。バグあり（多分canAddNotesWithErrorDetailのせい）
+
+### 第66日、2月28日
+
+報告：Yomitanにて重複Addボタンを追加。PRに報告。
