@@ -444,3 +444,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第66日、2月28日
 
 報告：Yomitanにて重複Addボタンを追加。PRに報告。
+
+### 第67日、2月29日
+
+報告：Yomitan PRを訂正。
