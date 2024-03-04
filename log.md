@@ -448,3 +448,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第67日、2月29日
 
 報告：Yomitan PRを訂正。
+
+### 第６８、３月４日
+
+報告：Yomitan PR訂正。
