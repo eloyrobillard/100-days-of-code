@@ -449,6 +449,10 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 
 報告：Yomitan PRを訂正。
 
-### 第６８、３月４日
+### 第６８日、３月４日
 
 報告：Yomitan PR訂正。
+
+### 第６９日、３月５日（火）
+
+報告：Inkscapeでicons.svgに「重複ノートを追加」アイコンをレイヤーとして追加。
