@@ -456,3 +456,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第６９日、３月５日（火）
 
 報告：Inkscapeでicons.svgに「重複ノートを追加」アイコンをレイヤーとして追加。
+
+### 第７０日、３月６日（水）
+
+報告：Inkscapeでicons.svgをさらに編集＋整形。
