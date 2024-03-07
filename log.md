@@ -460,3 +460,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第７０日、３月６日（水）
 
 報告：Inkscapeでicons.svgをさらに編集＋整形。
+
+### 第７１日、３月７日（木）
+
+報告：Anki Card Generator拡張機能の開発を開始。
