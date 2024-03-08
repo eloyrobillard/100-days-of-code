@@ -464,3 +464,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第７１日、３月７日（木）
 
 報告：Anki Card Generator拡張機能の開発を開始。
+
+### 第７２日、３月８日（金）
+
+報告：Anki Card Generatorを[ECMAscript moduleに変換](https://www.notion.so/Browser-Addon-cannot-use-import-f1f6c1a305e743ea80dc0e278c2525b4)
+
+リンク：[コミット]（https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/71ec47af8f21a8eb8206916f496c12ee8a6d534f）
