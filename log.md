@@ -470,3 +470,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：Anki Card Generatorを[ECMAscript moduleに変換](https://www.notion.so/Browser-Addon-cannot-use-import-f1f6c1a305e743ea80dc0e278c2525b4)
 
 リンク：[コミット]（https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/71ec47af8f21a8eb8206916f496c12ee8a6d534f）
+
+### 第７３日、３月９日（土）
+
+報告：拡張機能のFEとBEを接続。ポップアップにAnkiConnectのステータスを表示。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/6428765881c7fdb3dbbe27f5ece0933e576998eb
