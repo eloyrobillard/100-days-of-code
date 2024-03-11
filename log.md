@@ -476,3 +476,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：拡張機能のFEとBEを接続。ポップアップにAnkiConnectのステータスを表示。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/6428765881c7fdb3dbbe27f5ece0933e576998eb
+
+### 第74日、3月１０日
+
+報告：content scriptsでイベントリスナーを設置。
