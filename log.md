@@ -480,3 +480,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第74日、3月１０日
 
 報告：content scriptsでイベントリスナーを設置。
+
+### 第76日、3月12日
+
+報告：ユーザがテキストを選択したらポップアップを表示。
