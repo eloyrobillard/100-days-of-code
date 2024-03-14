@@ -486,3 +486,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：ユーザがテキストを選択したらポップアップを表示。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/4357643f1ffec6521e1e03549f06af1e7cf4a3ec
+
+### 第78日、3月13日
+
+報告：TypeScriptレビューに依頼された変更を適用。テスト中。
