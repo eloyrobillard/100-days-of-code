@@ -490,3 +490,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第78日、3月13日
 
 報告：TypeScriptレビューに依頼された変更を適用。テスト中。
+
+### 第79日、3月１４日
+
+報告：拡張機能にGoogle翻訳風のポップアップボタンを追加。位置と見た目がまだだ。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/59f9ef82579fc5629338c89aac47242e14fb4ac8
