@@ -496,3 +496,9 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：拡張機能にGoogle翻訳風のポップアップボタンを追加。位置と見た目がまだだ。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/59f9ef82579fc5629338c89aac47242e14fb4ac8
+
+### 第80日、3月18日
+
+報告：Anki拡張機能ボタンを正しく（が遅く）表示する。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/9b7d8fa452e0a152b9581d312d825d3ce34ce80b
