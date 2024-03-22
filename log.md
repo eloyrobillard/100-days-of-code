@@ -502,3 +502,27 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：Anki拡張機能ボタンを正しく（が遅く）表示する。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/9b7d8fa452e0a152b9581d312d825d3ce34ce80b
+
+### 第81日、3月19日
+
+報告：カードモデルのselectを追加。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/abe987afe4f98a36e082791bdb1dc74b0b1897f5
+
+### 第82日、3月20日
+
+報告：switch-caseのインデントlintルールを修正
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/c8deae00985cb4a9e1333605e9dcf49b0216d672
+
+### 第83日、3月21日
+
+報告：選択したカードモデルをstorageに保存
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/20f191ac1e98b7e27293e74448aea7a86869d789
+
+### 第84日、3月22日
+
+報告：デッキのselectを追加。storage保管に失敗。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/f89a0c37476075776890879691db106504d17e95
