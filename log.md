@@ -526,3 +526,13 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：デッキのselectを追加。storage保管に失敗。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/f89a0c37476075776890879691db106504d17e95
+
+### 第85日、3月23日
+
+報告：Yomitanの説明を更新。
+
+### 第86日、3月24日
+
+報告：Anki card generatorのMVPを完成。
+
+コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/685f97f855f2cc898f9009883e971b7e8bd97750
