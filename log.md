@@ -536,3 +536,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：Anki card generatorのMVPを完成。
 
 コミット：https://github.com/eloyrobillard/in-browser-anki-card-generator/commit/685f97f855f2cc898f9009883e971b7e8bd97750
+
+### 第87日、3月25日
+
+報告：拡張機能をFirefoxにポート。派生manifestを作らないといけない。
