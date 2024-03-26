@@ -540,3 +540,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第87日、3月25日
 
 報告：拡張機能をFirefoxにポート。派生manifestを作らないといけない。
+
+### 第88日、3月26日
+
+報告：ChromeとFirefox対応のマニフェストを準備。buildスクリプトを執筆中。
