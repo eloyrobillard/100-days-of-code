@@ -544,3 +544,13 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第88日、3月26日
 
 報告：ChromeとFirefox対応のマニフェストを準備。buildスクリプトを執筆中。
+
+### 第89日、3月27日
+
+報告：ビルドスクリプト完成。それぞれのブラウザ対応のビルドを生成。
+
+### 第90日、3月28日
+
+報告：MacのユーティリティでFirefoxビルドをzip＋Firefox AMOに投稿。
+
+開発センター：https://addons.mozilla.org/ja/developers/addons
