@@ -554,3 +554,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 報告：MacのユーティリティでFirefoxビルドをzip＋Firefox AMOに投稿。
 
 開発センター：https://addons.mozilla.org/ja/developers/addons
+
+### 第91日、3月29日（金）
+
+報告：ExercismでElixirの構文を勉強中。
