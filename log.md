@@ -558,3 +558,7 @@ there's a bug in the AnkiConnect API (used to fetch Anki cards info). might need
 ### 第91日、3月29日（金）
 
 報告：ExercismでElixirの構文を勉強中。
+
+### 第92日、3月30日
+
+報告：ElixirのEnum+ASTについて勉強した。
